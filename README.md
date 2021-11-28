@@ -31,9 +31,7 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     c.  Next, we found the percentage of "successful", "failed", and "canceled" for each dollar range
     d. Finally, we created a line chart that shows the results of our findings.
     ![Outcomes_vs_Goals](Resources/to/Outcomes_vs_Goals.png)
-    
-    
-    
+ https://github.com/RHilburn75/kickstarter-analysis
     
 ### Challenges and Difficulties Encountered
 
