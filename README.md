@@ -21,7 +21,7 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     d. See below Links on my findings
     
     
-    ![image](https://user-images.githubusercontent.com/94253815/143724949-120c9feb-e0d3-4939-9435-e2e7881f7c23.png)
+    
 
 
     
@@ -38,6 +38,10 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     b.) Once those ranges were found, we did a sum of all of the projects from each goal dollar range.
     c)  Next, we found the percentage of "successful", "failed", and "canceled" for each dollar range
     d) Finally, we created a line chart that shows the results of our findings.
+    
+    
+    
+    
     
     
     
