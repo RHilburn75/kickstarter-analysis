@@ -19,7 +19,7 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     b. Finally, I wanted to see how each one fared, "successful, "canceled", or "failed".  I grabbed the total counts of those pieces of data and created columns
     c. Once I created the table, I wanted to see how it would look visually - I'm a visual person, so by creating a chart, I thought it would be easier to "see" our findings
     d. See below Links on my findings
-  
+    
     
  
 
@@ -30,6 +30,10 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     b. Once those ranges were found, we did a sum of all of the projects from each goal dollar range.
     c.  Next, we found the percentage of "successful", "failed", and "canceled" for each dollar range
     d. Finally, we created a line chart that shows the results of our findings.
+    ![Outcomes_vs_Goals](Resources/to/Outcomes_vs_Goals.png)
+    
+    
+    
     
 ### Challenges and Difficulties Encountered
 
