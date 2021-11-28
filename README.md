@@ -21,7 +21,8 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     d. See below Links on my findings
     
     
-   
+   ![image](https://user-images.githubusercontent.com/94253815/143725091-1ffe87a2-adf2-4426-bf33-e58c4b724a85.png)
+
 
 
 
