@@ -20,7 +20,7 @@
    -   Used the date of conversion to get the timeframe, in this case, looking for the months in the year. 
    -  Finally, how did each one fared, "successful, "canceled", or "failed". Grabbed the total counts of those pieces of data and created columns
    - Once the table was created, the next question was how would it look visually? - To create a visual, a chart was created, to "see" what was found.
-   -  See below Links on findings
+   -  See below Links on findings:
     
     
  
@@ -41,7 +41,7 @@
 2. The second piece of data we needed to see were the outcomes based on goals - Breaking down the number of "successful", "failed", and "canceled" pledges, based on dollar amount or dollar amount Range.
     - We needed to create a table in which we could see the number of "successfu", "failed" and Canceled" pledges based on multiple goal ranges.  In order to do this we used a countIF formula in Excel to help us find those ranges.
     - Once those ranges were found, we did a sum of all of the projects from each goal dollar range.
-    -  Next, we found the percentage of "successful", "failed", and "canceled" for each dollar range
+    -  Next, we found the percentage of "successful", "failed", and "canceled" for each dollar range.
     - Finally, we created a line chart that shows the results of our findings.
     
     
