@@ -3,22 +3,24 @@
 ## Overview of Project
 
 ### Purpose
-The overview of the project was to analyze the main report, the kickstarter Challenge, to see how other campaigns fared compared to Fever. By using the Kickstarter Challenge data given, the data was broken down into 2 datasets so we can give Louise a cleear and concise report on our findings. We'll breakdown the data using two different types of Excel spreadhseets, pivot tables and formulas (COUNTIF).
+  The overview of the project was to analyze the main report, the kickstarter Challenge, to see how other campaigns fared compared to Fever. By using the Kickstarter Challenge data given, the data was broken down into 2 datasets so we can give Louise a cleear and concise report on our findings. We'll breakdown the data using two different types of Excel spreadhseets, pivot tables and formulas (COUNTIF).
 
 ## Analysis and Challenges
 
-  In order to perform the Analysis, we had to 1st figure out what kind of data we were using and whate data was needed in order to tell lthe story. In order to do this we had to figure out the following:
- 1. What were the outcomes by their start date?  H 
+  In order to perform the Analysis, we had to 1st figure out what kind of data we were using and whate data was needed in order to tell lthe story. In order to do this we had to figure how to set up our data in a way it would tell the story.  We will compare 2 pieces of data, the first being the "OutcomesBased on Launch Date".  This will show all of our outcomes by month and it will show what succeeded, what failed and what canceled by month.  The data is from all parts of the world and covers all theatre.
+  
+  The 2nd piece of data will be the outcomes based on goals.  For this dataset, the focus will be on goals based on acertain range of pledges (Dollar Amount).  In this analysis, the data will be broken down into a monatary range and from that set range, we'll be able to identify what succeeeded, what failed and what was canceled.  From that, we can also get a percentage of what worked, what didn't and what was canceled.
+ 
  
   
 
 ### Analysis of Outcomes Based on Launch Date
 
- Theatre Outcomes by Launch date - We gathered information from the Kickstarter data and created a Pivot table on our information. Our key components of data consisted of our filters, Parent company, which in this cases is "theatre", and "years" to get the timeframe.
-    a. I decided to use the date of conversion to get the timeframe, in this case, I'm looking for the months in the year. 
-    b. Finally, I wanted to see how each one fared, "successful, "canceled", or "failed".  I grabbed the total counts of those pieces of data and created columns
-    c. Once I created the table, I wanted to see how it would look visually - I'm a visual person, so by creating a chart, I thought it would be easier to "see" our findings
-    d. See below Links on my findings
+ Theatre Outcomes by Launch date - We gathered information from the Kickstarter data and created a Pivot table on the information. Our key components of data consisted of our filters, Parent company, which in this cases is "theatre", and "years" to get the timeframe.
+   -  I decided to use the date of conversion to get the timeframe, in this case, I'm looking for the months in the year. 
+   -  Finally, I wanted to see how each one fared, "successful, "canceled", or "failed".  I grabbed the total counts of those pieces of data and created columns
+   - Once I created the table, I wanted to see how it would look visually - To create a visual, a chart was created, to "see" what was found.
+   -  See below Links on my findings
     
     
    ![image](https://user-images.githubusercontent.com/94253815/143725091-1ffe87a2-adf2-4426-bf33-e58c4b724a85.png)
