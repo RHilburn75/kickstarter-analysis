@@ -23,7 +23,8 @@
    -  See below Links on findings
     
     
-   ![image](https://user-images.githubusercontent.com/94253815/143725091-1ffe87a2-adf2-4426-bf33-e58c4b724a85.png)
+ 
+                          ![image](https://user-images.githubusercontent.com/94253815/143725091-1ffe87a2-adf2-4426-bf33-e58c4b724a85.png)
 
 
 
@@ -44,7 +45,7 @@
     - Finally, we created a line chart that shows the results of our findings.
     
     
-     ![image](https://user-images.githubusercontent.com/94253815/143725046-625f33e7-bfab-4755-bf2e-64729ee0a80e.png)
+                         ![image](https://user-images.githubusercontent.com/94253815/143725046-625f33e7-bfab-4755-bf2e-64729ee0a80e.png)
     
     
     
