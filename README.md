@@ -16,11 +16,11 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
- Theatre Outcomes by Launch date - We gathered information from the Kickstarter data and created a Pivot table on the information. Our key components of data consisted of our filters, Parent company, which in this cases is "theatre", and "years" to get the timeframe.
-   -  I decided to use the date of conversion to get the timeframe, in this case, I'm looking for the months in the year. 
-   -  Finally, I wanted to see how each one fared, "successful, "canceled", or "failed".  I grabbed the total counts of those pieces of data and created columns
-   - Once I created the table, I wanted to see how it would look visually - To create a visual, a chart was created, to "see" what was found.
-   -  See below Links on my findings
+ Theatre Outcomes by Launch date - Information was gathered from the Kickstarter data and created a Pivot table on the information. The key components of data consisted of filters, Parent company, which in this cases is "theatre", and "years" to get the timeframe.
+   -   Used the date of conversion to get the timeframe, in this case, looking for the months in the year. 
+   -  Finally, how did each one fared, "successful, "canceled", or "failed". Grabbed the total counts of those pieces of data and created columns
+   - Once the table was created, the next question was how would it look visually? - To create a visual, a chart was created, to "see" what was found.
+   -  See below Links on findings
     
     
    ![image](https://user-images.githubusercontent.com/94253815/143725091-1ffe87a2-adf2-4426-bf33-e58c4b724a85.png)
@@ -38,10 +38,10 @@
 ### Analysis of Outcomes Based on Goals
 
 2. The second piece of data we needed to see were the outcomes based on goals - Breaking down the number of "successful", "failed", and "canceled" pledges, based on dollar amount or dollar amount Range.
-    a) We needed to create a table in which we could see the number of "successfu", "failed" and Canceled" pledges based on multiple goal ranges.  In order to do this we used a countIF formula in Excel to help us find those ranges.
-    b.) Once those ranges were found, we did a sum of all of the projects from each goal dollar range.
-    c)  Next, we found the percentage of "successful", "failed", and "canceled" for each dollar range
-    d) Finally, we created a line chart that shows the results of our findings.
+    - We needed to create a table in which we could see the number of "successfu", "failed" and Canceled" pledges based on multiple goal ranges.  In order to do this we used a countIF formula in Excel to help us find those ranges.
+    - Once those ranges were found, we did a sum of all of the projects from each goal dollar range.
+    -  Next, we found the percentage of "successful", "failed", and "canceled" for each dollar range
+    - Finally, we created a line chart that shows the results of our findings.
     
     
      ![image](https://user-images.githubusercontent.com/94253815/143725046-625f33e7-bfab-4755-bf2e-64729ee0a80e.png)
