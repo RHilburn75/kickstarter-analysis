@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The overview of the project was to anallize the main report, the kickstarter Challenge, to see how other campaigns fared compared to Fever. By using the Kickstarter Challenge data given, I was able to breakdown the information so we can give Louise a cleear and concise report on our findings. 
+The overview of the project was to analyze the main report, the kickstarter Challenge, to see how other campaigns fared compared to Fever. By using the Kickstarter Challenge data given, I was able to breakdown the information so we can give Louise a cleear and concise report on our findings. 
 
 ## Analysis and Challenges
 
@@ -13,12 +13,15 @@ The overview of the project was to anallize the main report, the kickstarter Cha
   
 
 ### Analysis of Outcomes Based on Launch Date
-1. Theatre Outcomes by Launch date - We gathered information from the Kickstarter data and created a Pivot table on our information. Our key components of data consisted of our filters, Parent company, which in this cases is "theatre", and "years" to get the timeframe.
+
+ Theatre Outcomes by Launch date - We gathered information from the Kickstarter data and created a Pivot table on our information. Our key components of data consisted of our filters, Parent company, which in this cases is "theatre", and "years" to get the timeframe.
     a. I decided to use the date of conversion to get the timeframe, in this case, I'm looking for the months in the year. 
     b. Finally, I wanted to see how each one fared, "successful, "canceled", or "failed".  I grabbed the total counts of those pieces of data and created columns
     c. Once I created the table, I wanted to see how it would look visually - I'm a visual person, so by creating a chart, I thought it would be easier to "see" our findings
-    d. See below of our findings
-  ----Add Links to the excel workbook Theatre Outcomes by Launchdate here-------
+    d. See below Links on my findings
+  
+    
+ 
 
 ### Analysis of Outcomes Based on Goals
 
