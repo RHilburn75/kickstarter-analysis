@@ -69,4 +69,5 @@ The biggest challenge that I came across was in the "outcomes based on on Goals"
  1. Too Broad-  The data is a high view point of plays throughout the world.  If you could drill down to individual countries, you would get a better sample of data
 
 - What are some other possible tables and/or graphs that we could create?
-
+ 1. You could create a chart showing Fever in relation to all of the others.  
+ 2. You couls also create a map chart showing the number of plays through out the world
