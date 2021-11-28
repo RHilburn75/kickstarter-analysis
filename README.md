@@ -21,7 +21,8 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     d. See below Links on my findings
     
     
-    
+   
+
 
 
     
@@ -40,7 +41,7 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     d) Finally, we created a line chart that shows the results of our findings.
     
     
-    
+     ![image](https://user-images.githubusercontent.com/94253815/143725046-625f33e7-bfab-4755-bf2e-64729ee0a80e.png)
     
     
     
