@@ -19,7 +19,8 @@ The overview of the project was to analyze the main report, the kickstarter Chal
     b. Finally, I wanted to see how each one fared, "successful, "canceled", or "failed".  I grabbed the total counts of those pieces of data and created columns
     c. Once I created the table, I wanted to see how it would look visually - I'm a visual person, so by creating a chart, I thought it would be easier to "see" our findings
     d. See below Links on my findings
-    
+    ![image](https://user-images.githubusercontent.com/94253815/143724949-120c9feb-e0d3-4939-9435-e2e7881f7c23.png)
+
 
     
     
